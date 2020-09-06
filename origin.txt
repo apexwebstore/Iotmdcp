@@ -1,0 +1,416 @@
+Uri: http://eco.iotmdcp.com/
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\index.htm
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/assets/image/main-slider/slider-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\main-slider\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/main-slider/slider-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\main-slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/main-slider/slider-3.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\main-slider\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/about/about-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\about\about-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/about/about-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\about\about-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/about/about-3.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\about\about-3.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/about/about-4.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\about\about-4.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-3.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-3.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-4.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-4.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-5.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-5.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-6.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-6.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/projects/port-7.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\projects\port-7.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog/blog-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog/blog-5.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/favicons/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/favicons/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/favicons/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/fontawesome/all.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\fontawesome\all.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/bootstrap/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/owl-carousel/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/owl-carousel/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/animate/animate.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/slicknav/slicknav.min.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\slicknav\slicknav.min.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/magnific/magnific-popup.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/style.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\style.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/assets/css/responsive.css
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://eco.iotmdcp.com/index.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\index.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/about.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\about.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/services.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\services.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/full-width-project.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\full-width-project.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/column3.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\column3.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/no-sidebar.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\no-sidebar.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/left-sidebar.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\left-sidebar.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/right-sidebar.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\right-sidebar.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/single-page.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\single-page.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/blank-page.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\blank-page.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/team.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\team.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/404-page.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\404-page.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/comming-soon.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\comming-soon.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/faq.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\faq.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/contact-us.html
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\contact-us.html
+Content Type: text/html
+
+Uri: http://eco.iotmdcp.com/assets/image/logo/logo.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\logo\logo.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/title.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\title.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/services/services-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\services\services-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/services/services-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\services\services-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/services/recent-posts/recent-post-1.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\services\recent-posts\recent-post-1.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/services/recent-posts/recent-post-2.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\services\recent-posts\recent-post-2.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/exparts/worker-1.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\exparts\worker-1.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/exparts/worker-2.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\exparts\worker-2.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/exparts/worker-3.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\exparts\worker-3.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/exparts/worker-4.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\exparts\worker-4.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/brands/brand-1.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\brands\brand-1.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/brands/brand-2.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\brands\brand-2.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/brands/brand-3.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\brands\brand-3.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/brands/brand-4.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\brands\brand-4.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/brands/brand-5.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\brands\brand-5.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/clients/client-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\clients\client-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/clients/client-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\clients\client-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/clients/client-3.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\clients\client-3.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/clients/client-4.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\clients\client-4.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog-author/author-1.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog-author\author-1.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/blog/blog-2.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog/blog-3.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog/blog-4.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/recent-post-1.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\recent-post-1.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/recent-post-2.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\recent-post-2.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/js/jquery-1.10.2.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/syotimer/jquery.syotimer.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\syotimer\jquery.syotimer.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/bootstrap/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/counterup/waypoints.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\counterup\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/counterup/jquery.counterup.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\counterup\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/owl-carousel/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/mixitup/jquery.mixitup.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\mixitup\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/slicknav/jquery.slicknav.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\slicknav\jquery.slicknav.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/magnific/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\magnific\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/wow/wow.min.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/js/custom.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://eco.iotmdcp.com/assets/css/plugins/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\css\plugins\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://eco.iotmdcp.com/assets/image/slider-1.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/commingsoon/comming-soon.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\commingsoon\comming-soon.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/breadcum/breadcum.jpg
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\breadcum\breadcum.jpg
+Content Type: image/jpeg
+
+Uri: http://eco.iotmdcp.com/assets/image/blog-author/author-2.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog-author\author-2.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/image/blog-author/author-3.png
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\image\blog-author\author-3.png
+Content Type: image/png
+
+Uri: http://eco.iotmdcp.com/assets/js/plugins/scrolling-nav/scrolling-nav.js
+File Name: c:\Downloaded Web Sites\eco.iotmdcp.com\assets\js\plugins\scrolling-nav\scrolling-nav.js
+Content Type: application/javascript
+
